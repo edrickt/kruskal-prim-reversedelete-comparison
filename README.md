@@ -4,6 +4,8 @@ Simple program to compare the runtimes of different algorithms to create minimum
 ## Overview
 Goal: Demonstrate the time complexity between the classic MST algorithms by using graphs with differing numbers of edges and vertices on 3 different MST algorithms.
 
+Simple implementations may be used.
+
 ### Kruskal's Algorithm
 While there is not (n-1) edges added, we keep adding
 edges in increasing order of weight given that it does not
